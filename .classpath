@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/CartlessShopping/Jar/webcam-capture-0.3.10-RC3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sm250941/Desktop/project/Library/boofcv-v0.14.1-libs/BoofCV-WebcamCapture-0.24.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sm250941/Desktop/project/Library/bridj-0.6.3-20130316.190111-13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sm250941/Desktop/project/Library/dx-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sm250941/Desktop/project/Library/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/TGCode/Hackathon_17/Jar/BoofCV-WebcamCapture-0.24.1.jar"/>
+	<classpathentry kind="lib" path="C:/TGCode/Hackathon_17/Jar/bridj-0.6.3-20130316.190111-13.jar"/>
+	<classpathentry kind="lib" path="C:/TGCode/Hackathon_17/Jar/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/TGCode/Hackathon_17/Jar/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/TGCode/Hackathon_17/Jar/webcam-capture-0.3.10-RC3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
